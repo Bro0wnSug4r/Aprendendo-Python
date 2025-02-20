@@ -12,3 +12,5 @@ else:
         print("\nAcesso negado!\n")
     else:
         print('\nResposta inválida! Por favor, responda com "sim" ou "não".\n')
+
+#Versão do meu código melhorada por IA, nesse caso a Deepseek.
