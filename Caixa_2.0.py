@@ -55,4 +55,4 @@ while True:
     else:
         print("\nOpção inválida! Tente novamente.\n")
 
-#Versão corrigoda pela Deepseek do meu código de caixa eletrônico, apenas para estudo.
+#Versão corrigida pela Deepseek do meu código de caixa eletrônico, apenas para estudo.
